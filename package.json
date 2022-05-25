@@ -1,0 +1,24 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "First time practicing with testing using Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coen593/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coen593/testing-practice/issues"
+  },
+  "homepage": "https://github.com/coen593/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.0",
+    "jest": "^28.1.0"
+  }
+}
